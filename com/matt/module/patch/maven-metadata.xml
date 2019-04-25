@@ -3,11 +3,12 @@
   <groupId>com.matt.module</groupId>
   <artifactId>patch</artifactId>
   <versioning>
-    <release>1.0.0-SNOPSHOT</release>
+    <release>1.0.1-SNOPSHOT</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.0-SNOPSHOT</version>
+      <version>1.0.1-SNOPSHOT</version>
     </versions>
-    <lastUpdated>20190424110209</lastUpdated>
+    <lastUpdated>20190425034240</lastUpdated>
   </versioning>
 </metadata>
